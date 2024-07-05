@@ -1,0 +1,1 @@
+i18next::backendConnector: loaded namespace translation for language da-DK {translation-name: Danish, share: Object}

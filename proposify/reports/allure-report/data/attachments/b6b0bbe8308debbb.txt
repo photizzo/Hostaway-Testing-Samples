@@ -1,0 +1,1 @@
+i18next::backendConnector: loaded namespace translation for language de-DE {translation-name: German, share: Object}

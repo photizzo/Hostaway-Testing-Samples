@@ -1,0 +1,1 @@
+i18next::backendConnector: loaded namespace translation for language fr {translation-name: French, admin: Object, share: Object}

@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"e2bdc4d2b94f167165f6980aa6fc0fde","name":"Document Management","statistic":{"failed":1,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":6}},{"uid":"cfe439a8cb5b4e3afb016ca4dfc57392","name":"Login Functionality","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}}]}

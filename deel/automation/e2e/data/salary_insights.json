@@ -1,0 +1,13 @@
+[
+  { "role": "Accountant", "country": "Brazil" },
+  { "role": "Accountant", "country": "Russia" },
+  { "role": "QA Engineer", "country": "Canada" },
+  { "role": "QA Engineer", "country": "China" },
+  { "role": "QA Engineer", "country": "Argentina" },
+  { "role": "QA Engineer", "country": "India" },
+  { "role": "QA Engineer", "country": "Mexico" },
+  { "role": "QA Engineer", "country": "France" },
+  { "role": "QA Engineer", "country": "Germany" },
+  { "role": "Software Engineer", "country": "Japan" },
+  { "role": "Algorithm Engineer", "country": "Nigeria" }
+]

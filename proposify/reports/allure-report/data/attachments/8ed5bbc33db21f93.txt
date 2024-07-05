@@ -1,0 +1,1 @@
+i18next::backendConnector: loaded namespace translation for language pl-PL {translation-name: Polish, share: Object}

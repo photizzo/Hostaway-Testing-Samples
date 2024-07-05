@@ -1,0 +1,1 @@
+i18next: initialized {debug: true, initImmediate: true, ns: Array(1), defaultNS: Array(1), fallbackLng: Object}
